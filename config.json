@@ -1,0 +1,8 @@
+{
+    "smtp_server": "smtp.163.com",
+    "smtp_port": 25,
+    "sender": "xxxxx@163.com",
+    "passwd": "****",
+    "receiver": "xxx@xxx.com"
+    "ip_file": "./ip_file"
+}
